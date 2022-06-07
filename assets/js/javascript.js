@@ -15,17 +15,17 @@ let theWheel = new Winwheel({
     'textOrientation' : 'curved',
     'segments' : 
     [
-        {'fillStyle' : '#eae56f', 'text' : 'Segment 1'},
-        {'fillStyle' : '#89f26e', 'text' : 'Segment 2'},
-        {'fillStyle' : '#7de6ef', 'text' : 'Segment 3'},
-        {'fillStyle' : '#e7706f', 'text' : 'Segment 4'},
-        {'fillStyle' : '#eae56f', 'text' : 'Segment 5'},
-        {'fillStyle' : '#89f26e', 'text' : 'Segment 6'},
-        {'fillStyle' : '#7de6ef', 'text' : 'Segment 7'},
-        {'fillStyle' : '#e7706f', 'text' : 'Segment 8'}
+        {'fillStyle' : '#f9ebe4', 'text' : 'Segment 1'},
+        {'fillStyle' : '#fef6f5', 'text' : 'Segment 2'},
+        {'fillStyle' : '#f9ebe4', 'text' : 'Segment 3'},
+        {'fillStyle' : '#fef6f5', 'text' : 'Segment 4'},
+        {'fillStyle' : '#f9ebe4', 'text' : 'Segment 5'},
+        {'fillStyle' : '#fef6f5', 'text' : 'Segment 6'},
+        {'fillStyle' : '#f9ebe4', 'text' : 'Segment 7'},
+        {'fillStyle' : '#fef6f5', 'text' : 'Segment 8'}
     ],
     'pins' : {
-        'number' : 4,
+        'number' : 8,
         'margin' : 0
     },
     'animation' :                  
